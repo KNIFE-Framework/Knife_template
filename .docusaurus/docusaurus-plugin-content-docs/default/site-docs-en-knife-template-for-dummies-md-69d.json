@@ -1,0 +1,27 @@
+{
+  "id": "en/knife-template-for-dummies",
+  "title": "KNIFE Template for Dummies",
+  "description": "Beginner guide to using the KNIFE documentation system",
+  "source": "@site/docs/en/knife-template-for-dummies.md",
+  "sourceDirName": "en",
+  "slug": "/en/knife-template-for-dummies",
+  "permalink": "/docs/en/knife-template-for-dummies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/en/knife-template-for-dummies.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "KNIFE Template for Dummies",
+    "description": "Beginner guide to using the KNIFE documentation system"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to KNIFE Template",
+    "permalink": "/docs/en/"
+  },
+  "next": {
+    "title": "Vitajte v šablóne KNIFE",
+    "permalink": "/docs/sk/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "en/template-guide",
+  "title": "KNIFE Templates - for dummies",
+  "description": "Ako používať túto šablónu.",
+  "source": "@site/docs/en/template-guide.md",
+  "sourceDirName": "en",
+  "slug": "/en/template-guide",
+  "permalink": "/docs/en/template-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/en/template-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vitajte",
+    "permalink": "/docs/en/"
+  },
+  "next": {
+    "title": "Vitajte",
+    "permalink": "/docs/sk/"
+  }
+}

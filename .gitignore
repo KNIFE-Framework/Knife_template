@@ -1,20 +1,50 @@
-# Dependencies
-/node_modules
+####################################
+# Univerzálny .gitignore pre GitDocs-Lab demo
+# Pokrýva: MkDocs, Hugo, Docusaurus, VitePress
+####################################
 
-# Production
-/build
 
-# Generated files
-.docusaurus
-.cache-loader
+# Python
+__pycache__/
+*.py[cod]
+# 📦 Node.js / NPM závislosti
+node_modules/
+node_modules/.cache/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
 
-# Misc
+# 🏗️ Výstupy z buildov
+site/                     # MkDocs
+*.lock
+public/                   # Hugo (len ak nepoužívam worktree pre gh-pages!)
+build/                    # Docusaurus
+.vitepress/dist/          # VitePress (ak bez podsložky)
+docs/.vitepress/dist/     # VitePress (v podsložke)
+dist/                     # iné systémy (napr. VuePress)
+out/                      # všeobecný výstup
+_site/                    # Jekyll (GitHub Pages)
+
+# 🧠 Cache, dočasné, systémové súbory
+.cache/
+docs/.vitepress/cache/
+.sass-cache/             # Jekyll
+.jekyll-cache/          # Jekyll
+.bundle/                # Jekyll bundler
+vendor/                 # Jekyll bundler
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+Thumbs.db
+*.log
+*.zip
+*.tmp
+*.bak
+*.swp
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# 🚫 Ostatné súbory, ktoré nemajú ísť do Gitu
+.env
+.idea/
+.vscode/
+*.local
+
+# 💡 GitHub Pages pomocné výstupy (ak robia ručne deploy)
+gh-pages/
