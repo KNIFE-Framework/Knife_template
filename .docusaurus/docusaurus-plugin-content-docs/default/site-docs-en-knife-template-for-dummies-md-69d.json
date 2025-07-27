@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Welcome to KNIFE Template",
-    "permalink": "/docs/en/"
+    "title": "Example: Solution Diagram",
+    "permalink": "/docs/en/Examples/diagram"
   },
   "next": {
     "title": "Vitajte v šablóne KNIFE",
-    "permalink": "/docs/sk/"
+    "permalink": "/docs/sk"
   }
 }

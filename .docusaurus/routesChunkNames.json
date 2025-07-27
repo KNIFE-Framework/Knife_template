@@ -249,46 +249,46 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-f03": {
+  "/docs-744": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-652": {
+  "/docs-7f0": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-169": {
+  "/docs-c04": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/-ee3": {
+  "/docs/-e35": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-233-467"
   },
-  "/docs/category/tutorial---basics-20e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-basicsc-8-a-e51"
-  },
-  "/docs/category/tutorial---extras-9ad": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
-  },
-  "/docs/en/-78f": {
+  "/docs/en-6a6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-en-f-76-48a"
+    "content": "content---docs-enf-76-5df"
+  },
+  "/docs/en/Examples/diagram-4cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-examples-diagram-1-f-6-93b"
   },
   "/docs/en/knife-template-for-dummies-d23": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-en-knife-template-for-dummies-69-d-b46"
   },
-  "/docs/intro-61d": {
+  "/docs/intro-853": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/sk/-317": {
+  "/docs/sk-6e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sk-75-e-ab3"
+    "content": "content---docs-sk-75-e-457"
+  },
+  "/docs/sk/Examples/diagram-9cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-examples-diagram-09-e-b2b"
   },
   "/docs/sk/knife-sablona-pre-zacinajucich-928": {
     "__comp": "__comp---theme-doc-item-178-a40",

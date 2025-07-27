@@ -15,3 +15,4 @@ KNIFE znamená **Knowledge In Friendly Examples** — rámec na budovanie a zdie
 
 - Zoznámte sa so [štruktúrou tejto stránky](./index.md)
 - Preskúmajte [reálne príklady](../assets/diagrams)
+- Zoznámte sa so všetkými [KNIFES](https://github.com/KNIFE-Framework/knifes_overview/blob/main/7Ds/01.D1-Management/02.Strategy/KNIFEsOverview.md)

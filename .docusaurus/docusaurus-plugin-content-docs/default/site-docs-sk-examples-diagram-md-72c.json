@@ -1,0 +1,24 @@
+{
+  "id": "sk/examples/diagram",
+  "title": "Príklad: Diagram riešenia",
+  "description": "Tento diagram bol vytvorený v Draw.io a exportovaný ako SVG:",
+  "source": "@site/docs/sk/examples/diagram.md",
+  "sourceDirName": "sk/examples",
+  "slug": "/sk/examples/diagram",
+  "permalink": "/docs/sk/examples/diagram",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sk/examples/diagram.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vitajte v šablóne KNIFE",
+    "permalink": "/docs/sk"
+  },
+  "next": {
+    "title": "KNIFE šablóna pre začiatočníkov",
+    "permalink": "/docs/sk/knife-sablona-pre-zacinajucich"
+  }
+}

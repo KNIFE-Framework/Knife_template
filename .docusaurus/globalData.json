@@ -11,8 +11,13 @@
           "mainDocId": "README",
           "docs": [
             {
+              "id": "en/Examples/diagram",
+              "path": "/docs/en/Examples/diagram",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "en/index",
-              "path": "/docs/en/",
+              "path": "/docs/en",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -22,17 +27,20 @@
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/intro"
             },
             {
               "id": "README",
-              "path": "/docs/",
+              "path": "/docs/"
+            },
+            {
+              "id": "sk/Examples/diagram",
+              "path": "/docs/sk/Examples/diagram",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sk/index",
-              "path": "/docs/sk/",
+              "path": "/docs/sk",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -79,24 +87,14 @@
               "id": "tutorial-extras/translate-your-site",
               "path": "/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/en",
+                "label": "en/index"
               }
             }
           }

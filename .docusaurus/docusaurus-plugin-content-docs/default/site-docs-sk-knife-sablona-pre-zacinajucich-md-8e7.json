@@ -17,7 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Vitajte v šablóne KNIFE",
-    "permalink": "/docs/sk/"
+    "title": "Príklad: Diagram riešenia",
+    "permalink": "/docs/sk/Examples/diagram"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
   }
 }
