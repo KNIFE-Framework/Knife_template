@@ -79,6 +79,17 @@ export default function Home() {
             Spustiť lokálny Docusaurus tutorial
           </Link>
         </section>
+
+        {/* ✅ Nová sekcia: Rýchly rozcestník */}
+        <section>
+          <h2>🔗 Rýchly rozcestník</h2>
+          <ul>
+            <li>➡️ <Link to="https://github.com/KNIFE-Framework/knifes_overview/blob/main/7Ds/01.D1-Management/02.Strategy/KNIFE_Overview_List.md">Hlavný prehľad KNIFE</Link></li>
+            <li>🌐 <Link to="/docs/en">Vstupný bod (EN)</Link></li>
+            <li>🌐 <Link to="/docs/sk">Vstupný bod (SK)</Link></li>
+            <li>📦 <Link to="https://github.com/KNIFE-Framework/Knife_template" target="_blank">Repozitár šablóny na GitHube</Link></li>
+          </ul>
+        </section>
       </main>
     </Layout>
   );
