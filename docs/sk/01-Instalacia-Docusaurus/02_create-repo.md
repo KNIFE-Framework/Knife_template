@@ -12,3 +12,4 @@
 ```bash
 gh repo create KNIFE-Framework/KNIFE_Template --public --clone --description "Template pre všetky KNIFE príspevky s Docusaurus + EN/SK + metadata"
 ```
+[Home](../01-Instalacia-Docusaurus.md)

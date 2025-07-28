@@ -8,3 +8,5 @@
 ## 🌱 Odporúčané:
 - VS Code (s markdown a git pluginmi)
 - GitHub CLI (`gh`) – zjednoduší proces
+
+[Home](../01-Instalacia-Docusaurus.md)

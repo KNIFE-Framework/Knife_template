@@ -9,3 +9,4 @@ tags: [backup, onedrive, rclone, NAS]
 description: Ako vytvoriť lokálnu zálohu streamovaných súborov z OneDrive.
 ---
 ```
+[Home](../01-Instalacia-Docusaurus.md)

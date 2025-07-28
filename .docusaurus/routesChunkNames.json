@@ -249,17 +249,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-72c": {
+  "/docs-8c4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-27d": {
+  "/docs-290": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-e9d": {
+  "/docs-910": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-e35": {
@@ -281,6 +281,10 @@
   "/docs/intro-853": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/release-notes-a31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-release-note-ene-89-a0d"
   },
   "/docs/sk-6e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -333,6 +337,10 @@
   "/docs/sk/knife-sablona-pre-zacinajucich-928": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-sk-knife-sablona-pre-zacinajucich-8-e-7-962"
+  },
+  "/docs/sk/release-notes-435": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-release-notes-6-b-3-600"
   },
   "/docs/tutorial-basics/congratulations-458": {
     "__comp": "__comp---theme-doc-item-178-a40",

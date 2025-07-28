@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '72c'),
+    component: ComponentCreator('/docs', '8c4'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '27d'),
+        component: ComponentCreator('/docs', '290'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e9d'),
+            component: ComponentCreator('/docs', '910'),
             routes: [
               {
                 path: '/docs/',
@@ -151,6 +151,12 @@ export default [
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '853'),
                 exact: true
+              },
+              {
+                path: '/docs/release-notes',
+                component: ComponentCreator('/docs/release-notes', 'a31'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/sk',
@@ -227,6 +233,12 @@ export default [
               {
                 path: '/docs/sk/knife-sablona-pre-zacinajucich',
                 component: ComponentCreator('/docs/sk/knife-sablona-pre-zacinajucich', '928'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/release-notes',
+                component: ComponentCreator('/docs/sk/release-notes', '435'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

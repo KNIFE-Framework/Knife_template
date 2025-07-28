@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "en/ReleaseNote_en",
+              "path": "/docs/release-notes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro"
             },
@@ -96,6 +101,11 @@
             {
               "id": "sk/knife-sablona-pre-zacinajucich",
               "path": "/docs/sk/knife-sablona-pre-zacinajucich",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/ReleaseNote_sk",
+              "path": "/docs/sk/release-notes",
               "sidebar": "tutorialSidebar"
             },
             {

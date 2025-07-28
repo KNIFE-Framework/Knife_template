@@ -15,4 +15,4 @@ KNIFE stands for **Knowledge In Friendly Examples** — a framework to build and
 
 - Understand the [structure of this site](./index.md)
 - Explore [real examples](assets/diagrams)
-- Have a look all  [KNIFES](https://github.com/KNIFE-Framework/knifes_overview/blob/main/7Ds/01.D1-Management/02.Strategy/KNIFEsOverview.md)
+- Have a look all  [KNIFES](https://github.com/KNIFE-Framework/knifes_overview/blob/main/7Ds/01.D1-Management/02.Strategy/KNIFE_Overview_List.md)

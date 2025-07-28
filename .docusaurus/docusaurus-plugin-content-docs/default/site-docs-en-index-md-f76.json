@@ -20,7 +20,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Example: Solution Diagram",
-    "permalink": "/docs/en/Examples/diagram"
+    "title": "Release Notes",
+    "permalink": "/docs/release-notes"
   }
 }
