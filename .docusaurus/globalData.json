@@ -44,6 +44,56 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "sk/Instalacia-Docusaurus",
+              "path": "/docs/sk/Instalacia-Docusaurus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/assets",
+              "path": "/docs/sk/Instalacia-Docusaurus/assets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/contributing",
+              "path": "/docs/sk/Instalacia-Docusaurus/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/create-repo",
+              "path": "/docs/sk/Instalacia-Docusaurus/create-repo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/deploy",
+              "path": "/docs/sk/Instalacia-Docusaurus/deploy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/i18n",
+              "path": "/docs/sk/Instalacia-Docusaurus/i18n",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/init-docusaurus",
+              "path": "/docs/sk/Instalacia-Docusaurus/init-docusaurus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/metadata",
+              "path": "/docs/sk/Instalacia-Docusaurus/metadata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/prerequisites",
+              "path": "/docs/sk/Instalacia-Docusaurus/prerequisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sk/Instalacia-Docusaurus/structure",
+              "path": "/docs/sk/Instalacia-Docusaurus/structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "sk/knife-sablona-pre-zacinajucich",
               "path": "/docs/sk/knife-sablona-pre-zacinajucich",
               "sidebar": "tutorialSidebar"

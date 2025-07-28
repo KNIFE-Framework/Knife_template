@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '744'),
+    component: ComponentCreator('/docs', '72c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '7f0'),
+        component: ComponentCreator('/docs', '27d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c04'),
+            component: ComponentCreator('/docs', 'e9d'),
             routes: [
               {
                 path: '/docs/',
@@ -161,6 +161,66 @@ export default [
               {
                 path: '/docs/sk/Examples/diagram',
                 component: ComponentCreator('/docs/sk/Examples/diagram', '9cf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus', '485'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/assets',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/assets', '922'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/contributing',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/contributing', '912'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/create-repo',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/create-repo', 'e51'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/deploy',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/deploy', '9d1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/i18n',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/i18n', 'e9c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/init-docusaurus',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/init-docusaurus', '3cd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/metadata',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/metadata', 'efd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/prerequisites',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/prerequisites', 'a8d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sk/Instalacia-Docusaurus/structure',
+                component: ComponentCreator('/docs/sk/Instalacia-Docusaurus/structure', '1d1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

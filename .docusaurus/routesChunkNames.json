@@ -249,17 +249,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-744": {
+  "/docs-72c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-7f0": {
+  "/docs-27d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-c04": {
+  "/docs-e9d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-e35": {
@@ -289,6 +289,46 @@
   "/docs/sk/Examples/diagram-9cf": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-sk-examples-diagram-09-e-b2b"
+  },
+  "/docs/sk/Instalacia-Docusaurus-485": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-64-d-677"
+  },
+  "/docs/sk/Instalacia-Docusaurus/assets-922": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-assetsbd-7-346"
+  },
+  "/docs/sk/Instalacia-Docusaurus/contributing-912": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-contributingebd-96a"
+  },
+  "/docs/sk/Instalacia-Docusaurus/create-repo-e51": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-create-repo-846-888"
+  },
+  "/docs/sk/Instalacia-Docusaurus/deploy-9d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-deployd-39-677"
+  },
+  "/docs/sk/Instalacia-Docusaurus/i18n-e9c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-i-18-n-11-a-8f1"
+  },
+  "/docs/sk/Instalacia-Docusaurus/init-docusaurus-3cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-init-docusaurus-9-de-9d8"
+  },
+  "/docs/sk/Instalacia-Docusaurus/metadata-efd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-metadata-560-92d"
+  },
+  "/docs/sk/Instalacia-Docusaurus/prerequisites-a8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-prerequisites-5-f-8-c85"
+  },
+  "/docs/sk/Instalacia-Docusaurus/structure-1d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sk-instalacia-docusaurus-structure-5-d-4-7fc"
   },
   "/docs/sk/knife-sablona-pre-zacinajucich-928": {
     "__comp": "__comp---theme-doc-item-178-a40",

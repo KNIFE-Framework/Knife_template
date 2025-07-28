@@ -1,0 +1,25 @@
+{
+  "id": "sk/Instalacia-Docusaurus/assets",
+  "title": "📸 7. Pridanie obrázkov, videí, HTML5",
+  "description": "Vlož do static/assets/:",
+  "source": "@site/docs/sk/01-Instalacia-Docusaurus/07_assets.md",
+  "sourceDirName": "sk/01-Instalacia-Docusaurus",
+  "slug": "/sk/Instalacia-Docusaurus/assets",
+  "permalink": "/docs/sk/Instalacia-Docusaurus/assets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sk/01-Instalacia-Docusaurus/07_assets.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 6. Jazyková podpora (EN/SK)",
+    "permalink": "/docs/sk/Instalacia-Docusaurus/i18n"
+  },
+  "next": {
+    "title": "📈 8. GitHub Actions a Deploy",
+    "permalink": "/docs/sk/Instalacia-Docusaurus/deploy"
+  }
+}

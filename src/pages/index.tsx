@@ -51,7 +51,7 @@ export default function Home() {
           <p>
             KNIFE je framework na zdieľanie vedomostí cez jednoduché príklady a návody. Viac nájdete na stránke:
             <br />
-            <Link to="https://knife-framework.github.io/KNIFE_Overview/" target="_blank">
+            <Link to="https://github.com/KNIFE-Framework/knifes_overview/blob/main/7Ds/01.D1-Management/02.Strategy/KNIFE_Overview_List.md" target="_blank">
               KNIFE Overview
             </Link>
           </p>

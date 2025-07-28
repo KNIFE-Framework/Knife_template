@@ -1,0 +1,25 @@
+{
+  "id": "sk/Instalacia-Docusaurus/contributing",
+  "title": "🚦 9. Prispievanie",
+  "description": "Tento repozitár je otvorený pre každého:",
+  "source": "@site/docs/sk/01-Instalacia-Docusaurus/09_contributing.md",
+  "sourceDirName": "sk/01-Instalacia-Docusaurus",
+  "slug": "/sk/Instalacia-Docusaurus/contributing",
+  "permalink": "/docs/sk/Instalacia-Docusaurus/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sk/01-Instalacia-Docusaurus/09_contributing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📈 8. GitHub Actions a Deploy",
+    "permalink": "/docs/sk/Instalacia-Docusaurus/deploy"
+  },
+  "next": {
+    "title": "🧰 KNIFE_Template: Guide for Dummies",
+    "permalink": "/docs/sk/Instalacia-Docusaurus"
+  }
+}

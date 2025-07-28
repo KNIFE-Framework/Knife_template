@@ -1,0 +1,25 @@
+{
+  "id": "sk/Instalacia-Docusaurus/metadata",
+  "title": "🏷 5. Metadáta a tagy",
+  "description": "Do každého .md súboru vlož frontmatter:",
+  "source": "@site/docs/sk/01-Instalacia-Docusaurus/05_metadata.md",
+  "sourceDirName": "sk/01-Instalacia-Docusaurus",
+  "slug": "/sk/Instalacia-Docusaurus/metadata",
+  "permalink": "/docs/sk/Instalacia-Docusaurus/metadata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sk/01-Instalacia-Docusaurus/05_metadata.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🗂 4. Pridanie 7Ds a SDLC štruktúr",
+    "permalink": "/docs/sk/Instalacia-Docusaurus/structure"
+  },
+  "next": {
+    "title": "🌐 6. Jazyková podpora (EN/SK)",
+    "permalink": "/docs/sk/Instalacia-Docusaurus/i18n"
+  }
+}

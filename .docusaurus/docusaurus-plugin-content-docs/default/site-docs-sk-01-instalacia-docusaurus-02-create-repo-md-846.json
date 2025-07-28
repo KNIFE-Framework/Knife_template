@@ -1,0 +1,25 @@
+{
+  "id": "sk/Instalacia-Docusaurus/create-repo",
+  "title": "📁 2. Vytvorenie repozitára KNIFE_Template",
+  "description": "A) Ručne na GitHube:",
+  "source": "@site/docs/sk/01-Instalacia-Docusaurus/02_create-repo.md",
+  "sourceDirName": "sk/01-Instalacia-Docusaurus",
+  "slug": "/sk/Instalacia-Docusaurus/create-repo",
+  "permalink": "/docs/sk/Instalacia-Docusaurus/create-repo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sk/01-Instalacia-Docusaurus/02_create-repo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧱 1. Predpoklady",
+    "permalink": "/docs/sk/Instalacia-Docusaurus/prerequisites"
+  },
+  "next": {
+    "title": "🧰 3. Inicializuj Docusaurus",
+    "permalink": "/docs/sk/Instalacia-Docusaurus/init-docusaurus"
+  }
+}
